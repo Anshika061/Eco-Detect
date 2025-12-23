@@ -11,4 +11,4 @@ Dataset is not included in this repository due to licensing restrictions.
 - Python
 - Deep Learning
 - TensorFlow / Keras
-- Google Colab
+- Google Colab.
