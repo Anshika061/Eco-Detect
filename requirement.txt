@@ -1,4 +1,4 @@
-Tensorflow-cpu==2.12.o
+tensorflow-cpu==2.10.o
 Nummpy
 Pillow
 Streamlit
