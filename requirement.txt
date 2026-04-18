@@ -2,3 +2,4 @@ Tensorflow-cpu==2.12.o
 Nummpy
 Pillow
 Streamlit
+gdown
