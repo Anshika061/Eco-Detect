@@ -17,7 +17,7 @@ EcoDetect is an AI-powered web application that classifies waste into categories
 
 
 📌 Upload & Prediction
-[prediction.png]
+![Prediction](prediction.png)
 
 ---
 
@@ -45,7 +45,7 @@ EcoDetect is an AI-powered web application that classifies waste into categories
   - Trash
  
     #Dataset
-    [dataset.png]
+    ![Dataset](dataset.png)
 
 ---
 
