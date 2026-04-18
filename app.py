@@ -1,8 +1,13 @@
+import tensorflow as tf
 import os
 import streamlit as st
 import numpy as np
 from PIL import Image
-from tensorflow.keras.models import load_model
+@st.cache_resource
+def load_my_model():
+    return tf.keras.models.load_model('ecodetect_model.h5')
+
+model = load_my_model()
 
 # ---------------- CONFIG ----------------
 st.set_page_config(page_title="EcoDetect AI", layout="wide")
