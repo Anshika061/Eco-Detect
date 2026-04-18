@@ -70,15 +70,6 @@ Eco-Detect/
 
 ---
 
-▶️ How to Run Locally
-
-git clone https://github.com/YOUR_USERNAME/Eco-Detect.git
-cd Eco-Detect
-pip install -r requirements.txt
-streamlit run app.py
-
----
-
 📈 Future Improvements
 
 - Improve model accuracy
