@@ -101,7 +101,7 @@ img:hover {
 """, unsafe_allow_html=True)
 
 # ---------------- LOAD MODEL ----------------
-model = load_model("trashnet_model.h5")
+model = load_model("ecodetect_model.h5")
 classes = ["cardboard","glass","metal","paper","plastic","trash"]
 
 # ---------------- HERO SECTION ----------------
