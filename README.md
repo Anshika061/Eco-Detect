@@ -13,11 +13,11 @@ EcoDetect is an AI-powered web application that classifies waste into categories
 🖼️ Project Preview
 
 📌 Home Interface
-"C:\Users\anshi\OneDrive\Pictures\Screenshots\Screenshot 2026-04-13 205621.png"
+"Home.png"
 
 
 📌 Upload & Prediction
-"C:\Users\anshi\OneDrive\Pictures\Screenshots\Screenshot 2026-04-13 205925.png"
+"prediction.png"
 
 ---
 
@@ -45,7 +45,7 @@ EcoDetect is an AI-powered web application that classifies waste into categories
   - Trash
  
     #Dataset
-    "C:\Users\anshi\OneDrive\Pictures\Screenshots\Screenshot 2025-12-23 115203.png"
+    "dataset.png"
 
 ---
 
