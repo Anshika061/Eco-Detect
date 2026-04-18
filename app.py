@@ -1,8 +1,9 @@
-import tensorflow as tf
 import os
 import streamlit as st
 import numpy as np
 from PIL import Image
+
+import tensorflow as tf
 @st.cache_resource
 def load_my_model():
     return tf.keras.models.load_model('ecodetect_model.h5')
